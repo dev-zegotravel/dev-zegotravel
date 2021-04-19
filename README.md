@@ -1,0 +1,13 @@
+วิธีการใช้งานเบื้องต้น
+สามารถทดลองสร้าง repo เพื่อทดสอบคำสั่งพื้นฐานได้
+
+- 👋 Hi, I’m @dev-zegotravel
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+dev-zegotravel/dev-zegotravel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
